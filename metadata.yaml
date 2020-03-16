@@ -1,0 +1,23 @@
+_repo: London-Sonnets_61598
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wolfe, Humbert
+    birthdate: 1885
+    deathdate: 1940
+    gutenberg_agent_id: '51428'
+    url: http://www.gutenberg.org/2009/agents/51428
+    wikipedia: https://en.wikipedia.org/wiki/Humbert_Wolfe
+description: ''
+gutenberg_issued: '2020-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: London Sonnets
+url: http://www.gutenberg.org/ebooks/61598
